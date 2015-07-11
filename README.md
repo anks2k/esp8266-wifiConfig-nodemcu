@@ -5,7 +5,7 @@
 **This is aimed to bring in the configuration of NodeMcu as easy as possible.**
 
 * This is light Wifi Config Utility for NodeMCU based ESP8266 Chipsets. 
-1. 
+1. Connect your NodeMcu to any Win/Mac PC and establish serial connection.
 2. Once serial communicaiton is established, using ESPlorer copy these files to your Node.
 3. Conenct to Wifi (Node AP - SSID:ESPConfigTool and Password:"espConfigTool") using any device and go to address 192.168.4.1 in your browser.
 4. Select your SSID and Enter your Password.
